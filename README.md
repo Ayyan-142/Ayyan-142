@@ -31,7 +31,7 @@ class MohammedAyyan:
 
     stack = [
         "Python", "C",
-        "Google Gemini", "Google AI Studio",
+        "Google Gemini", "Google AI Studio",  # Gemini + AI Studio
         "Firebase", "NumPy", "Pandas",
         "Canva", "InVideo", "CodePen"
     ]
@@ -40,7 +40,7 @@ class MohammedAyyan:
         "Machine Learning fundamentals",
         "Full-Stack Web Development",
         "Advanced Prompt Engineering",
-        "Data Structures & Algorithms"
+        "Data Structures and Algorithms"
     ]
 
     fun_fact = "I built an AI teaching assistant before finishing 2nd year!"
