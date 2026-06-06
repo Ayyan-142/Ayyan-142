@@ -1,18 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Mohammed%20Ayyan&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=CS%20Student%20%7C%20AI%20%26%20EdTech%20Builder%20%7C%20Hackathon%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Ayyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey%2C+I'm+Mohammed+Ayyan+%F0%9F%91%8B;CS+Engineer+%7C+AI+%26+ML+Enthusiast;Building+EdTech+%2B+HealthTech+Solutions;Hackathon+Competitor+%7C+Open+to+Intern+Roles" alt="Typing SVG" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I+am+Mohammed+Ayyan%3BCS+Engineer+%7C+AI+%26+ML%3BBuilding+EdTech+Solutions%3BOpen+to+Internships)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayyan-142&amp;label=Profile%20Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20EdTech-bf91f3?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38bdae?style=flat-square&amp;logo=google-maps&amp;logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20To-Internships-70a5fd?style=flat-square" alt="Open To"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayyan-142&label=Profile%20Views&color=70a5fd&style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20EdTech-bf91f3?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-38bdae?style=flat-square&logo=google-maps&logoColor=white)
+![Open To](https://img.shields.io/badge/Open%20To-Internships-70a5fd?style=flat-square)
+
 </div>
 
 ---
@@ -31,7 +33,7 @@ class MohammedAyyan:
 
     stack = [
         "Python", "C",
-        "Google Gemini", "Google AI Studio",  # Gemini + AI Studio
+        "Google Gemini", "Google AI Studio",
         "Firebase", "NumPy", "Pandas",
         "Canva", "InVideo", "CodePen"
     ]
@@ -46,7 +48,7 @@ class MohammedAyyan:
     fun_fact = "I built an AI teaching assistant before finishing 2nd year!"
 
     def motto(self):
-        return "Build. Break. Learn. Repeat. 🚀"
+        return "Build. Break. Learn. Repeat."
 ```
 
 <br clear="right"/>
@@ -88,12 +90,10 @@ class MohammedAyyan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Ayyan-142">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayyan-142&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Ayyan-142">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyan-142&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" alt="Top Languages"/>
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayyan-142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/Ayyan-142)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyan-142&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Ayyan-142)
+
 </div>
 
 ---
@@ -101,23 +101,25 @@ class MohammedAyyan:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayyan-142&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ayyan-142&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/Ayyan-142)
+
 </div>
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayyan-142&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayyan-142&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Ayyan-142)
 
 ---
 
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayyan-142&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="GitHub Trophies"/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ayyan-142&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Ayyan-142)
+
 </div>
 
 ---
@@ -145,7 +147,7 @@ class MohammedAyyan:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🤖 Sahayak – AI Teaching Assistant**](https://github.com/Ayyan-142) | `Python` `Google Gemini` `Firebase` `Google AI Studio` | Automates lesson planning, topic generation & classroom scheduling for multi-grade teachers · Submitted to **3 national hackathons** (Google Agentic AI Day, DeepSprint CIT, SYNAPTECH Sathyabama) |
+| [**🤖 Sahayak – AI Teaching Assistant**](https://github.com/Ayyan-142) | `Python` `Google Gemini` `Firebase` `Google AI Studio` | Automates lesson planning, topic generation and classroom scheduling for multi-grade teachers. Submitted to **3 national hackathons**: Google Agentic AI Day, DeepSprint CIT, SYNAPTECH Sathyabama |
 
 </div>
 
@@ -160,7 +162,7 @@ class MohammedAyyan:
 | 🤖 | **Google Agentic AI Day** | Submitted Sahayak AI project — national-level hackathon by Google (2025) |
 | ⚡ | **DeepSprint Hackathon – CIT** | Submitted AI-powered EdTech idea at national level (2025) |
 | 🧠 | **SYNAPTECH Ideathon – Sathyabama** | Competed in university-hosted national ideathon with Sahayak prototype (2025) |
-| 🎤 | **Public Speaking** | Experienced presenter at campus events, tech talks & hackathon pitches |
+| 🎤 | **Public Speaking** | Experienced presenter at campus events, tech talks and hackathon pitches |
 | 📈 | **DocApp Outreach** | Contacted **10+ medical professionals weekly** as a marketing intern in a healthcare startup |
 | 🎓 | **Class XII – CBSE** | Scored **90%** (The Central School, Dubai · 2024) |
 | 📚 | **Class X – CBSE** | Scored **84%** (The Central School, Dubai · 2022) |
@@ -190,7 +192,7 @@ class MohammedAyyan:
 🌐 Web Development         →  HTML, CSS, JavaScript, React (basics)
 🧩 DSA                     →  Arrays, Linked Lists, Recursion, Python problem-solving
 🔮 Prompt Engineering      →  Advanced Gemini prompting, LLM chaining, RAG concepts
-☁️  Cloud & Backend        →  Firebase (Auth, Firestore), REST APIs
+☁️  Cloud + Backend        →  Firebase (Auth, Firestore), REST APIs
 ```
 
 ---
@@ -199,9 +201,9 @@ class MohammedAyyan:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Ayyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ayyan-142)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Ayyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedayyan142)
 [![Email](https://img.shields.io/badge/Email-ayyancse%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayyancse@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ayyan-142-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayyan-142)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayyan--142-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayyan-142)
 
 </div>
 
@@ -211,4 +213,4 @@ class MohammedAyyan:
   <i>💡 "The best way to predict the future is to build it." — Let's create something meaningful together.</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
