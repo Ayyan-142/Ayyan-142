@@ -1,8 +1,8 @@
-![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Ayyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Ayyan&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Building%20Technology%20That%20Solves%20Real%20Problems&descAlignY=58&descSize=18)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I+am+Mohammed+Ayyan%3BCS+Engineer+%7C+AI+%26+ML%3BBuilding+EdTech+Solutions%3BOpen+to+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Builder+%7C+Hackathon+Winner%3BComputer+Science+Engineer%3BBuilding+Technology+That+Solves+Real+Problems%3BAgentic+AI+%7C+Full+Stack+Development+%7C+Automation%3BTurning+Ideas+into+Working+Products%3BLearning.+Building.+Shipping.%3BFuture+Software+Engineer+%26+AI+Product+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,80 +10,131 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ayyan-142&label=Profile%20Views&color=70a5fd&style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20EdTech-bf91f3?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-38bdae?style=flat-square&logo=google-maps&logoColor=white)
-![Open To](https://img.shields.io/badge/Open%20To-Internships-70a5fd?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayyan-142&label=Profile+Views&color=70a5fd&style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI+%26+Full+Stack-bf91f3?style=flat-square)
+![Hackathon](https://img.shields.io/badge/Hackathon-Winner-38bdae?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Building-70a5fd?style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `< About Me />`
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class MohammedAyyan:
+```javascript
+const MohammedAyyan = {
 
-    name        = "Mohammed Ayyan Muyeenuddin"
-    location    = "Chennai, Tamil Nadu, India"
-    degree      = "B.E. Computer Science Engineering @ Sathyabama (2028)"
-    gpa         = 8.3
+  name          : "Mohammed Ayyan",
+  role          : "AI Builder & Product Developer",
+  education     : "B.E. Computer Science @ Sathyabama (2026)",
 
-    stack = [
-        "Python", "C",
-        "Google Gemini", "Google AI Studio",
-        "Firebase", "NumPy", "Pandas",
-        "Canva", "InVideo", "CodePen"
-    ]
+  focusAreas    : [
+    "Agentic AI Systems",
+    "Full Stack Development",
+    "Automation & Cloud",
+    "Product Development",
+    "Startup Ecosystem"
+  ],
 
-    currently_learning = [
-        "Machine Learning fundamentals",
-        "Full-Stack Web Development",
-        "Advanced Prompt Engineering",
-        "Data Structures and Algorithms"
-    ]
+  currentlyBuilding : [
+    "Crop Guard  — AI crop disease detection platform",
+    "Sahayak    — AI teaching assistant for classrooms"
+  ],
 
-    fun_fact = "I built an AI teaching assistant before finishing 2nd year!"
+  currentlyLearning : [
+    "React.js + Node.js + MongoDB",
+    "LLM Agents & Multi-Agent Workflows",
+    "REST APIs & System Design"
+  ],
 
-    def motto(self):
-        return "Build. Break. Learn. Repeat."
+  careerGoal : "Build AI-powered products that solve real problems in",
+              "Education, Agriculture, Healthcare & Emerging Markets.",
+
+  motto() {
+    return "Ship products. Win competitions. Create impact.";
+  }
+
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🔗 Socials
 
-**Programming Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammedayyan142)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Ayyan-142)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ayyancse@gmail.com)
 
-**AI & ML Tools**
+</div>
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-FF6F00?style=flat-square&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+---
 
-**Platforms & Cloud**
+## 🛠️ Tech Stack
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)
+### Programming Languages
 
-**Productivity & Design**
+<div align="center">
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![InVideo](https://img.shields.io/badge/InVideo-7B2FBE?style=flat-square&logo=video&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Google Forms](https://img.shields.io/badge/Google%20Forms-7A4FBE?style=flat-square&logo=google&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=flat-square&logo=google-meet&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=python,c,js,java)](https://skillicons.dev)
+
+</div>
+
+### Web Development
+
+<div align="center">
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux,nodejs,express)](https://skillicons.dev)
+
+</div>
+
+### Databases
+
+<div align="center">
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
+
+</div>
+
+### AI & ML
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+### Cloud & DevOps
+
+<div align="center">
+
+[![Cloud](https://skillicons.dev/icons?i=gcp,firebase,cloudflare,linux)](https://skillicons.dev)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+</div>
+
+### Tools & Platforms
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+</div>
 
 ---
 
@@ -98,7 +149,7 @@ class MohammedAyyan:
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak
 
 <div align="center">
 
@@ -108,13 +159,13 @@ class MohammedAyyan:
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayyan-142&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Ayyan-142)
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Trophies
 
 <div align="center">
 
@@ -124,30 +175,14 @@ class MohammedAyyan:
 
 ---
 
-## 💼 Experience
-
-<details>
-  <summary><b>🏢 The Brand Marketing Group — Marketing Intern (DocApp) · 2025 · Chennai, India</b></summary>
-  <br/>
-
-  > `Growth Marketing` `Startup Communication` `LinkedIn Outreach` `Time Management`
-
-  - 📞 Reached out to **10+ doctors weekly** via LinkedIn to promote collaboration with the DocApp healthcare platform.
-  - 📝 Prepared structured outreach reports and communicated clear value propositions to medical professionals.
-  - 📈 Gained hands-on experience in **startup growth marketing**, lead generation, and stakeholder communication.
-  - ⏱️ Developed strong **time management skills** balancing internship duties alongside active academics.
-
-</details>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [**🤖 Sahayak – AI Teaching Assistant**](https://github.com/Ayyan-142) | `Python` `Google Gemini` `Firebase` `Google AI Studio` | Automates lesson planning, topic generation and classroom scheduling for multi-grade teachers. Submitted to **3 national hackathons**: Google Agentic AI Day, DeepSprint CIT, SYNAPTECH Sathyabama |
+| Project | Problem Solved | Tech Stack | Impact |
+|:--------|:---------------|:-----------|:-------|
+| **Crop Guard** | Farmers can't detect crop diseases early enough, leading to massive yield loss | `Python` `Google Gemini` `AI Vision` `Firebase` | AI-powered disease detection that improves agricultural decisions and reduces crop loss — **Hackathon Winner** |
+| **Sahayak** | Teachers in multi-grade classrooms face unsustainable workloads with no intelligent support | `Python` `Google Gemini` `Firebase` `Google AI Studio` | Automates lesson planning, topic generation and scheduling — submitted to **3 national hackathons** |
 
 </div>
 
@@ -157,60 +192,80 @@ class MohammedAyyan:
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
-|:--:|:------------|:--------|
-| 🤖 | **Google Agentic AI Day** | Submitted Sahayak AI project — national-level hackathon by Google (2025) |
-| ⚡ | **DeepSprint Hackathon – CIT** | Submitted AI-powered EdTech idea at national level (2025) |
-| 🧠 | **SYNAPTECH Ideathon – Sathyabama** | Competed in university-hosted national ideathon with Sahayak prototype (2025) |
-| 🎤 | **Public Speaking** | Experienced presenter at campus events, tech talks and hackathon pitches |
-| 📈 | **DocApp Outreach** | Contacted **10+ medical professionals weekly** as a marketing intern in a healthcare startup |
-| 🎓 | **Class XII – CBSE** | Scored **90%** (The Central School, Dubai · 2024) |
-| 📚 | **Class X – CBSE** | Scored **84%** (The Central School, Dubai · 2022) |
+| Achievement | Level | Impact |
+|:------------|:------|:-------|
+| 🥇 **Winner — Crop Guard AI Hackathon** | National | Built and shipped a working AI product that solves real agricultural problems |
+| 🥈 **2nd Runner-Up — IIT Hackathon** | National / IIT Level | Competed against top engineering students across India |
+| 🤖 **Google Agentic AI Day** | National | Submitted Sahayak AI system to Google's flagship AI event |
+| ⚡ **DeepSprint Hackathon — CIT** | National | AI-powered EdTech solution presented at national level |
+| 🧠 **SYNAPTECH Ideathon — Sathyabama** | University | Won recognition for Agentic AI prototype at project expo |
+| 💼 **Startup Intern — DocApp** | Industry | Drove B2B outreach to 10+ medical professionals weekly in a live healthcare startup |
 
 </div>
 
 ---
 
-## 🎓 Education
+## 💡 Why I Build
 
-<div align="center">
+> Technology is most powerful when it solves problems that actually matter.
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.E. Computer Science Engineering | Sathyabama Institute of Science and Technology, Chennai | 2024–2028 | GPA: 8.3 |
-| Class XII – CBSE | The Central School, Dubai | 2024 | 90% |
-| Class X – CBSE | The Central School, Dubai | 2022 | 84% |
+I don't build projects to add lines to a resume.
 
-</div>
+I build because there are **farmers losing crops** they could have saved. **Teachers burning out** under workloads that AI could lighten. **Communities underserved** by systems not designed for them.
 
----
+Every project I ship starts with a problem, not a technology. The technology is just the tool.
 
-## 📚 Currently Learning
+My goal is simple: become an engineer who builds products people actually need — in agriculture, education, healthcare, and every space where good software can change real lives.
 
-```
-🤖 Machine Learning        →  Supervised Learning, Model Training, Scikit-learn
-🌐 Web Development         →  HTML, CSS, JavaScript, React (basics)
-🧩 DSA                     →  Arrays, Linked Lists, Recursion, Python problem-solving
-🔮 Prompt Engineering      →  Advanced Gemini prompting, LLM chaining, RAG concepts
-☁️  Cloud + Backend        →  Firebase (Auth, Firestore), REST APIs
-```
+**Ship products. Win competitions. Create impact.**
 
 ---
 
-## 🌐 Connect With Me
+## 🗺️ Current Roadmap
+
+```
+AI Engineering
+  → Agentic Systems & Multi-Agent Workflows
+  → LLM Applications with Google Gemini
+  → Prompt Engineering & RAG Systems
+  → AI for Agriculture, Education, Healthcare
+
+Full Stack Development
+  → React.js + Redux Toolkit
+  → Node.js + Express.js + REST APIs
+  → MongoDB + SQL Databases
+  → Authentication, MVC Architecture
+  → Deployment on Render + Cloud Platforms
+
+System Design & DSA
+  → Data Structures & Algorithms
+  → Problem Solving (LeetCode)
+  → API Design & Scalability
+
+Product Development
+  → Startup Thinking & MVP Building
+  → User-Centered Design
+  → End-to-End Product Ownership
+```
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Ayyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedayyan142)
-[![Email](https://img.shields.io/badge/Email-ayyancse%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayyancse@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ayyancse@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayyancse@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ayyan--142-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayyan-142)
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <i>💡 "The best way to predict the future is to build it." — Let's create something meaningful together.</i>
+<i>Open to internships, hackathons, research collaborations, and building things that matter.</i>
 </div>
+
+<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
