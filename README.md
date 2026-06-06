@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedayyan142&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ayyan-142&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20EdTech-bf91f3?style=flat-square" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38bdae?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20To-Internships-70a5fd?style=flat-square" alt="Open To"/>
@@ -88,11 +88,11 @@ class MohammedAyyan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mohammedayyan142">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedayyan142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <a href="https://github.com/Ayyan-142">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayyan-142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/mohammedayyan142">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedayyan142&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/Ayyan-142">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyan-142&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -101,7 +101,7 @@ class MohammedAyyan:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammedayyan142&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Ayyan-142&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ class MohammedAyyan:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedayyan142&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayyan-142&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -117,7 +117,7 @@ class MohammedAyyan:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedayyan142&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayyan-142&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -145,7 +145,7 @@ class MohammedAyyan:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🤖 Sahayak – AI Teaching Assistant**](https://github.com/mohammedayyan142) | `Python` `Google Gemini` `Firebase` `Google AI Studio` | Automates lesson planning, topic generation & classroom scheduling for multi-grade teachers · Submitted to **3 national hackathons** (Google Agentic AI Day, DeepSprint CIT, SYNAPTECH Sathyabama) |
+| [**🤖 Sahayak – AI Teaching Assistant**](https://github.com/Ayyan-142) | `Python` `Google Gemini` `Firebase` `Google AI Studio` | Automates lesson planning, topic generation & classroom scheduling for multi-grade teachers · Submitted to **3 national hackathons** (Google Agentic AI Day, DeepSprint CIT, SYNAPTECH Sathyabama) |
 
 </div>
 
@@ -199,9 +199,9 @@ class MohammedAyyan:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Ayyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedayyan142)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Ayyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ayyan-142)
 [![Email](https://img.shields.io/badge/Email-ayyancse%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayyancse@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mohammedayyan142-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammedayyan142)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayyan-142-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayyan-142)
 
 </div>
 
