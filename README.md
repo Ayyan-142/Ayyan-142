@@ -1,4 +1,4 @@
-![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Ayyan&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Building%20Technology%20That%20Solves%20Real%20Problems&descAlignY=58&descSize=18)
+![Mohammed Ayyan](https://raw.githubusercontent.com/Ayyan-142/Ayyan-142/main/banner.svg)
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayyan-142&label=Profile+Views&color=70a5fd&style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI+%26+Full+Stack-bf91f3?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI%26FullStack-bf91f3?style=flat-square)
 ![Hackathon](https://img.shields.io/badge/Hackathon-Winner-38bdae?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Building-70a5fd?style=flat-square)
 
@@ -39,7 +39,7 @@ const MohammedAyyan = {
   ],
 
   currentlyBuilding : [
-    "Crop Guard  — AI crop disease detection platform",
+    "AgriVision AI  — AI crop disease detection platform",
     "Sahayak    — AI teaching assistant for classrooms"
   ],
 
@@ -70,7 +70,7 @@ const MohammedAyyan = {
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammedayyan142)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Ayyan-142)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ayyancse@gmail.com)
-
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/thekingoflol142)
 </div>
 
 ---
@@ -134,6 +134,8 @@ const MohammedAyyan = {
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 ---
@@ -181,7 +183,7 @@ const MohammedAyyan = {
 
 | Project | Problem Solved | Tech Stack | Impact |
 |:--------|:---------------|:-----------|:-------|
-| **Crop Guard** | Farmers can't detect crop diseases early enough, leading to massive yield loss | `Python` `Google Gemini` `AI Vision` `Firebase` | AI-powered disease detection that improves agricultural decisions and reduces crop loss — **Hackathon Winner** |
+| **AgriVision AI** | Farmers can't detect crop diseases early enough, leading to massive yield loss | `Python` `Google Gemini` `AI Vision` `Firebase` | AI-powered disease detection that improves agricultural decisions and reduces crop loss — **Hackathon Winner** |
 | **Sahayak** | Teachers in multi-grade classrooms face unsustainable workloads with no intelligent support | `Python` `Google Gemini` `Firebase` `Google AI Studio` | Automates lesson planning, topic generation and scheduling — submitted to **3 national hackathons** |
 
 </div>
@@ -194,8 +196,9 @@ const MohammedAyyan = {
 
 | Achievement | Level | Impact |
 |:------------|:------|:-------|
-| 🥇 **Winner — Crop Guard AI Hackathon** | National | Built and shipped a working AI product that solves real agricultural problems |
-| 🥈 **2nd Runner-Up — IIT Hackathon** | National / IIT Level | Competed against top engineering students across India |
+| 🏆 **Winner — SIMATS SciComp V1.O Hackathon** | National | Built and shipped a working AI product that solves real agricultural problems |
+| 🌟 **Google Gemini Ambassador 2026** | Google — National | Selected by Google to represent Gemini AI — one of very few students nationally |
+| 🔓 **GSSoC 2026 — Open Source Contributor** | National | Selected for GirlScript Summer of Code — competitive open source program |
 | 🤖 **Google Agentic AI Day** | National | Submitted Sahayak AI system to Google's flagship AI event |
 | ⚡ **DeepSprint Hackathon — CIT** | National | AI-powered EdTech solution presented at national level |
 | 🧠 **SYNAPTECH Ideathon — Sathyabama** | University | Won recognition for Agentic AI prototype at project expo |
