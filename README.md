@@ -28,7 +28,7 @@ const MohammedAyyan = {
 
   name          : "Mohammed Ayyan",
   role          : "AI Builder & Product Developer",
-  education     : "B.E. Computer Science @ Sathyabama (2026)",
+  education     : "B.E. Computer Science @ Sathyabama (2028)",
 
   focusAreas    : [
     "Agentic AI Systems",
