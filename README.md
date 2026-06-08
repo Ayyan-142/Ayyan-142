@@ -184,7 +184,7 @@ const MohammedAyyan = {
 | Project | Problem Solved | Tech Stack | Impact |
 |:--------|:---------------|:-----------|:-------|
 | **AgriVision AI** | Farmers can't detect crop diseases early enough, leading to massive yield loss | `Python` `Google Gemini` `AI Vision` `Firebase` | AI-powered disease detection that improves agricultural decisions and reduces crop loss — **Hackathon Winner** |
-| **Sahayak** | Teachers in multi-grade classrooms face unsustainable workloads with no intelligent support | `Python` `Google Gemini` `Firebase` `Google AI Studio` | Automates lesson planning, topic generation and scheduling — submitted to **3 national hackathons** |
+| [**Sahayak**](https://github.com/Ayyan-142/Sahayak-AI) | Teachers in multi-grade classrooms face unsustainable workloads with no intelligent support | `Python` `Google Gemini` `Firebase` `Google AI Studio` | Automates lesson planning, topic generation and scheduling — submitted to **3 national hackathons** |
 
 </div>
 
